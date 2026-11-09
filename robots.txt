@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Yahan apni site ka sahi URL daalein
-Sitemap: https://alkhair-islamic-finance.github.io/sitemap.xml
+Sitemap:https://alkhairislamicfinance.github.io/sitemap.xml

